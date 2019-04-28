@@ -1,0 +1,12 @@
+{
+	"name"		:"Sailor",
+	"folder"	:"sailor",
+	"author"	:"Mango TM",
+	"template"	:{
+					
+					"Default Page"		: "page",
+					"Homepage"		: "homepage",
+					"Full Page"			: "fullpage",
+					"Backend Template"	: "backend"
+				}
+}
